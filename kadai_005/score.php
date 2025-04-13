@@ -1,3 +1,4 @@
+
 <?php
 $total = 0;
 
@@ -9,4 +10,5 @@ for ($i = 0; $i < 10; $i++) {
 }
 $average=$total/10;
 echo $average;
+
 ?>
